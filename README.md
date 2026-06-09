@@ -55,12 +55,9 @@ Les données ont été nettoyées, transformées et modélisées dans Power BI a
 
   ## Tableau de bord final
   <img width="1166" height="653" alt="image" src="https://github.com/user-attachments/assets/d7a73b09-f2cf-49b1-b3d9-3d6128980fd8" />
-  DataSet
+  
   # BI-Finance-Report
 DataBase Overview :
-![financereport](https://github.com/user-attachments/assets/46915758-a87b-4da5-9cd9-d6578d9843b0)
-
-Final Dashboard :
 ![image](https://github.com/user-attachments/assets/00d9f5ae-ffa1-473f-affc-c36b37e5d5cb)
 
 
